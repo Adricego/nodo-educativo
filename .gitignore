@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Cobertura y registros
+coverage/
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
