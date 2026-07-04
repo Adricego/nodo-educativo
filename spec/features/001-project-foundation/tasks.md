@@ -22,10 +22,10 @@
 
 ### T001 — Confirmar ubicación y estado del repositorio
 
-- [ ] Confirmar que la terminal está ubicada en la raíz de `nodo-educativo`.
-- [ ] Confirmar la rama actual.
-- [ ] Revisar cambios pendientes en Git.
-- [ ] Revisar la estructura actual del repositorio.
+- [x] Confirmar que la terminal está ubicada en la raíz de `nodo-educativo`.
+- [x] Confirmar la rama actual.
+- [x] Revisar cambios pendientes en Git.
+- [x] Revisar la estructura actual del repositorio.
 
 **Comandos sugeridos:**
 

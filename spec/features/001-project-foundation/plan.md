@@ -3,7 +3,7 @@
 ## Identificación
 
 - Feature: `001-project-foundation`
-- Estado: Draft
+- Estado: Ready for implementation
 - Tipo: Fundación técnica
 - Dependencias previas: Documentos de constitución y `spec.md` de la feature
 - Dependencias futuras: `002-system-visual-and-navigation`
