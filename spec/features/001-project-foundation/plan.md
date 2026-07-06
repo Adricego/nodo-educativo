@@ -29,6 +29,45 @@ La implementación debe dejar una base simple, segura y extensible para las futu
 - Usar el dominio temporal de Vercel durante esta etapa.
 - Nombrar el proyecto de Vercel como `nodo-educativo`.
 
+## Estrategia de inicialización segura
+
+La aplicación Next.js no se generará directamente en la raíz del repositorio,
+porque el repositorio ya contiene documentación, reglas de agentes y configuración
+de Git que deben preservarse.
+
+Para T002 se utilizará una carpeta temporal fuera del repositorio. Allí se generará
+una aplicación Next.js vacía con TypeScript, Tailwind CSS, ESLint, App Router,
+carpeta `src/` y npm.
+
+La inicialización temporal no debe crear un repositorio Git adicional ni reemplazar
+el `AGENTS.md` existente.
+
+Después de revisar el contenido generado, solo se incorporarán a la raíz del
+repositorio los archivos necesarios para la base de Next.js:
+
+- `package.json`
+- `package-lock.json`
+- `tsconfig.json`
+- `next-env.d.ts`
+- archivos de configuración generados por Next.js, ESLint y PostCSS
+- `src/`
+- `public/`, solo si contiene archivos necesarios
+
+No se deben copiar ni sobrescribir:
+
+- `AGENTS.md`
+- `README.md`
+- `.gitignore`
+- `.editorconfig`
+- `.gitattributes`
+- `spec/`
+- `docs/`
+- `.git/`
+- `node_modules/`
+
+Una vez incorporados `package.json` y `package-lock.json`, las dependencias se
+instalarán en la raíz mediante `npm ci`.
+
 ## Límites de alcance
 
 Esta feature no debe implementar:
