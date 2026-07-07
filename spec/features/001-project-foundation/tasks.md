@@ -33,12 +33,12 @@
 
 ### T002 — Crear la aplicación Next.js en el repositorio existente
 
-- [ ] Definir y aprobar una estrategia segura para generar Next.js en un repositorio que ya contiene documentación.
-- [ ] Crear la aplicación usando Next.js, TypeScript, Tailwind CSS, App Router y la carpeta `src/`.
-- [ ] Preservar sin sobrescribir `AGENTS.md`, `spec/`, `docs/`, `.git/`, `.editorconfig` y `.gitattributes`.
-- [ ] Verificar que la estructura generada coincida con la arquitectura definida en `plan.md`.
-- [ ] No instalar dependencias adicionales fuera de las incluidas por la herramienta oficial de Next.js.
-- [ ] No implementar todavía diseño, navegación, CMS ni contenido editorial.
+- [x] Definir y aprobar una estrategia segura para generar Next.js en un repositorio que ya contiene documentación.
+- [x] Crear la aplicación usando Next.js, TypeScript, Tailwind CSS, App Router y la carpeta `src/`.
+- [x] Preservar sin sobrescribir `AGENTS.md`, `spec/`, `docs/`, `.git/`, `.editorconfig` y `.gitattributes`.
+- [x] Verificar que la estructura generada coincida con la arquitectura definida en `plan.md`.
+- [x] No instalar dependencias adicionales fuera de las incluidas por la herramienta oficial de Next.js.
+- [x] No implementar todavía diseño, navegación, CMS ni contenido editorial.
 
 **Requiere aprobación antes de ejecutar comandos de generación o instalación.**
 
