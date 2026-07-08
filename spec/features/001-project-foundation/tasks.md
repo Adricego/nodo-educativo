@@ -69,15 +69,15 @@
 
 ### T005 — Implementar página temporal de Nodo Educativo
 
-- [ ] Crear una página inicial temporal en `src/app/page.tsx`.
-- [ ] Mostrar el nombre “Nodo Educativo”.
-- [ ] Mostrar una descripción breve sobre noticias, herramientas y tecnología educativa para docentes de Chile.
-- [ ] Mostrar un mensaje de portal en preparación o próxima apertura.
-- [ ] Utilizar Tailwind CSS.
-- [ ] Mantener una estética moderna, educativa y profesional.
-- [ ] Garantizar lectura clara en móvil y escritorio.
-- [ ] No incluir formularios, suscripciones, contacto ni captura de datos.
-- [ ] No implementar header, footer o navegación definitiva.
+- [x] Crear una página inicial temporal en `src/app/page.tsx`.
+- [x] Mostrar el nombre “Nodo Educativo”.
+- [x] Mostrar una descripción breve sobre noticias, herramientas y tecnología educativa para docentes de Chile.
+- [x] Mostrar un mensaje de portal en preparación o próxima apertura.
+- [x] Utilizar Tailwind CSS.
+- [x] Mantener una estética moderna, educativa y profesional.
+- [x] Garantizar lectura clara en móvil y escritorio.
+- [x] No incluir formularios, suscripciones, contacto ni captura de datos.
+- [x] No implementar header, footer o navegación definitiva.
 
 ### T006 — Revisar accesibilidad y estructura básica
 
