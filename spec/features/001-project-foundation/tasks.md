@@ -48,12 +48,12 @@
 
 ### T003 — Verificar configuración y comandos base
 
-- [ ] Revisar `package.json` y confirmar los scripts disponibles.
-- [ ] Confirmar que TypeScript está configurado en modo estricto.
-- [ ] Confirmar que Tailwind CSS quedó disponible.
-- [ ] Confirmar que la aplicación usa App Router y `src/app/`.
-- [ ] Revisar que `.gitignore` siga protegiendo dependencias, compilación y variables de entorno.
-- [ ] Documentar los comandos reales de desarrollo, lint y build.
+- [x] Revisar `package.json` y confirmar los scripts disponibles.
+- [x] Confirmar que TypeScript está configurado en modo estricto.
+- [x] Confirmar que Tailwind CSS quedó disponible.
+- [x] Confirmar que la aplicación usa App Router y `src/app/`.
+- [x] Revisar que `.gitignore` siga protegiendo dependencias, compilación y variables de entorno.
+- [x] Documentar los comandos reales de desarrollo, lint y build.
 
 ### T004 — Ejecutar la aplicación localmente
 
