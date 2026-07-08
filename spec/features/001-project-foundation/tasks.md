@@ -57,11 +57,11 @@
 
 ### T004 — Ejecutar la aplicación localmente
 
-- [ ] Iniciar el servidor de desarrollo.
-- [ ] Confirmar que la ruta principal responde sin errores.
-- [ ] Revisar errores visibles en la terminal.
-- [ ] Confirmar que la aplicación puede abrirse desde navegador local.
-- [ ] Detener el servidor correctamente después de la verificación.
+- [x] Iniciar el servidor de desarrollo.
+- [x] Confirmar que la ruta principal responde sin errores.
+- [x] Revisar errores visibles en la terminal.
+- [x] Confirmar que la aplicación puede abrirse desde navegador local.
+- [x] Detener el servidor correctamente después de la verificación.
 
 ---
 
