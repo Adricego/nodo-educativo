@@ -28,6 +28,7 @@ Si existe una contradicción entre una tarea y la constitución, detenerse y ped
 - Control de versiones: Git y GitHub.
 - Despliegue inicial: Vercel.
 - Entorno de desarrollo: WSL, Bash, Warp y VS Code.
+- Runtime local: Node.js 22 administrado con `nvm` dentro de WSL; `node`, `npm` y `npx` no deben ejecutarse desde rutas de Windows como `/mnt/c/Program Files/nodejs/`.
 
 ## Stack futuro
 
@@ -127,6 +128,7 @@ Se puede implementar directamente solo si:
 - No crear ramas sin indicación del usuario.
 - No cambiar la arquitectura del proyecto sin actualizar la documentación correspondiente.
 - No introducir librerías alternativas si el stack actual ya cubre la necesidad.
+- Si un comando aprobado falla, detenerse e informar el error; no aplicar workarounds, comandos alternativos ni cambios de entorno sin aprobación explícita.
 
 ## Comandos esperados
 

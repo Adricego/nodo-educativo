@@ -9,6 +9,7 @@
 - Control de versiones: Git y GitHub.
 - Despliegue inicial: Vercel.
 - Dominio: por definir; podrá contratarse con un proveedor chileno.
+- Runtime local actual: Node.js 22 administrado mediante `nvm` dentro de WSL.
 
 ## Base de datos futura
 
