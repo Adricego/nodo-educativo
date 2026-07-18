@@ -81,11 +81,11 @@
 
 ### T006 — Revisar accesibilidad y estructura básica
 
-- [ ] Usar estructura HTML semántica.
-- [ ] Verificar jerarquía correcta de encabezados.
-- [ ] Confirmar contraste legible.
-- [ ] Confirmar que la interfaz sea usable en pantallas pequeñas.
-- [ ] Verificar que no dependa solo del color para comunicar información.
+- [x] Usar estructura HTML semántica.
+- [x] Verificar jerarquía correcta de encabezados.
+- [x] Confirmar contraste legible.
+- [x] Confirmar que la interfaz sea usable en pantallas pequeñas.
+- [x] Verificar que no dependa solo del color para comunicar información.
 
 ---
 
