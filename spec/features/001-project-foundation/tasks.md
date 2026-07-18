@@ -102,12 +102,12 @@
 
 ### T008 — Ejecutar validaciones de calidad
 
-- [ ] Ejecutar el comando de lint disponible.
-- [ ] Ejecutar el comando de build disponible.
-- [ ] Resolver errores atribuibles a esta feature.
-- [ ] Revisar cambios con `git diff`.
-- [ ] Confirmar que no existan secretos ni archivos sensibles.
-- [ ] Confirmar que el proyecto sigue respetando `AGENTS.md`.
+- [x] Ejecutar el comando de lint disponible.
+- [x] Ejecutar el comando de build disponible.
+- [x] Resolver errores atribuibles a esta feature.
+- [x] Revisar cambios con `git diff`.
+- [x] Confirmar que no existan secretos ni archivos sensibles.
+- [x] Confirmar que el proyecto sigue respetando `AGENTS.md`.
 
 ---
 
