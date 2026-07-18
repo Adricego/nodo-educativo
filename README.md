@@ -30,7 +30,7 @@ Proyecto en fase de definición y preparación técnica.
 
 Requisitos:
 
-- WSL.
+- Trabajar desde WSL.
 - Node.js 22 administrado con `nvm` dentro de WSL.
 - `node`, `npm` y `npx` deben resolverse desde `~/.nvm/`, no desde rutas de Windows.
 
@@ -38,7 +38,7 @@ Comandos actuales:
 
 - `npm ci` — instalar dependencias desde `package-lock.json`.
 - `npm run dev` — iniciar el servidor de desarrollo.
-- `npm run lint` — ejecutar la revisión de calidad disponible.
+- `npm run lint` — ejecutar ESLint.
 - `npm run build` — generar la compilación de producción.
 - `npm start` — iniciar la aplicación compilada después de un build exitoso.
 

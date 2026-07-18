@@ -93,12 +93,12 @@
 
 ### T007 — Documentar ejecución local
 
-- [ ] Actualizar `README.md` con requisitos previos.
-- [ ] Documentar cómo instalar dependencias.
-- [ ] Documentar cómo iniciar el proyecto.
-- [ ] Documentar cómo ejecutar lint.
-- [ ] Documentar cómo generar el build de producción.
-- [ ] Mantener el README breve y coherente con el estado real del proyecto.
+- [x] Actualizar `README.md` con requisitos previos.
+- [x] Documentar cómo instalar dependencias.
+- [x] Documentar cómo iniciar el proyecto.
+- [x] Documentar cómo ejecutar lint.
+- [x] Documentar cómo generar el build de producción.
+- [x] Mantener el README breve y coherente con el estado real del proyecto.
 
 ### T008 — Ejecutar validaciones de calidad
 
