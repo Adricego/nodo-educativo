@@ -122,20 +122,20 @@
 - [x] No configurar DNS ni dominio personalizado.
 - [x] No agregar variables de entorno reales durante esta feature.
 
+**Requiere aprobación explícita antes de conectar o desplegar en Vercel.**
+
 **Resultado:** despliegue inicial exitoso en el dominio temporal de Vercel:
 `https://nodo-educativo.vercel.app`
 
-**Requiere aprobación explícita antes de conectar o desplegar en Vercel.**
-
 ### T010 — Verificar versión desplegada y cerrar feature
 
-- [ ] Confirmar que la URL temporal de Vercel carga correctamente.
-- [ ] Confirmar que muestra la misma página temporal validada localmente.
-- [ ] Revisar visualmente la versión móvil y escritorio.
-- [ ] Actualizar los criterios de aceptación cumplidos en `spec.md`.
-- [ ] Marcar tareas completadas en `tasks.md`.
-- [ ] Ejecutar revisión final con `git status`, `git diff --check`, lint y build.
-- [ ] Realizar commit, push y pull request solo con aprobación explícita.
+- [x] Confirmar que la URL temporal de Vercel carga correctamente.
+- [x] Confirmar que muestra la misma página temporal validada localmente.
+- [x] Revisar visualmente la versión móvil y escritorio.
+- [x] Actualizar los criterios de aceptación cumplidos en `spec.md`.
+- [x] Marcar tareas completadas en `tasks.md`.
+- [x] Ejecutar revisión final con `git status`, `git diff --check`, lint y build.
+- [x] Realizar commit, push y pull request solo con aprobación explícita.
 
 **Comandos sugeridos:**
 
