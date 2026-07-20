@@ -95,21 +95,21 @@ Esta feature no incluye:
 
 La feature estará completada cuando se cumpla lo siguiente:
 
-- [ ] El repositorio contiene una aplicación Next.js funcional.
-- [ ] TypeScript está habilitado y no existen errores de tipos en la validación definida por el proyecto.
-- [ ] Tailwind CSS está configurado y se utiliza en la página temporal.
-- [ ] La aplicación inicia correctamente en entorno local.
-- [ ] La ruta principal muestra la página temporal de Nodo Educativo.
-- [ ] La página presenta el nombre, propósito y estado inicial del portal.
-- [ ] La interfaz es utilizable en pantallas pequeñas y grandes.
-- [ ] La compilación de producción finaliza correctamente.
-- [ ] No se suben secretos ni archivos sensibles al repositorio.
-- [ ] El repositorio GitHub refleja los cambios de esta feature.
-- [ ] Existe un despliegue funcional en Vercel asociado al repositorio.
-- [ ] La versión desplegada coincide funcionalmente con la página temporal validada en local.
-- [ ] Existe documentación mínima para ejecutar y validar el proyecto.
-- [ ] La página temporal no incluye formularios ni solicita datos personales.
-- [ ] El despliegue inicial utiliza el dominio temporal de Vercel.
+- [x] El repositorio contiene una aplicación Next.js funcional.
+- [x] TypeScript está habilitado y no existen errores de tipos en la validación definida por el proyecto.
+- [x] Tailwind CSS está configurado y se utiliza en la página temporal.
+- [x] La aplicación inicia correctamente en entorno local.
+- [x] La ruta principal muestra la página temporal de Nodo Educativo.
+- [x] La página presenta el nombre, propósito y estado inicial del portal.
+- [x] La interfaz es utilizable en pantallas pequeñas y grandes.
+- [x] La compilación de producción finaliza correctamente.
+- [x] No se suben secretos ni archivos sensibles al repositorio.
+- [x] El repositorio GitHub refleja los cambios de esta feature.
+- [x] Existe un despliegue funcional en Vercel asociado al repositorio.
+- [x] La versión desplegada coincide funcionalmente con la página temporal validada en local.
+- [x] Existe documentación mínima para ejecutar y validar el proyecto.
+- [x] La página temporal no incluye formularios ni solicita datos personales.
+- [x] El despliegue inicial utiliza el dominio temporal de Vercel.
 
 ## Riesgos y consideraciones
 
