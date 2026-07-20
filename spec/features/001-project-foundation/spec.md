@@ -3,7 +3,7 @@
 ## Identificación
 
 - ID: 001-project-foundation
-- Estado: Ready for implementation
+- Estado: Completed
 - Prioridad: Alta
 - Dependencias: Ninguna
 - Feature siguiente: Definida en `spec/constitution/roadmap.md`
