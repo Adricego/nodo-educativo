@@ -115,12 +115,15 @@
 
 ### T009 — Configurar despliegue en Vercel
 
-- [ ] Conectar el repositorio GitHub con Vercel.
-- [ ] Crear el proyecto `nodo-educativo` en Vercel.
-- [ ] Usar detección automática de configuración.
-- [ ] Mantener el dominio temporal de Vercel.
-- [ ] No configurar DNS ni dominio personalizado.
-- [ ] No agregar variables de entorno reales durante esta feature.
+- [x] Conectar el repositorio GitHub con Vercel.
+- [x] Crear el proyecto `nodo-educativo` en Vercel.
+- [x] Usar detección automática de configuración.
+- [x] Mantener el dominio temporal de Vercel.
+- [x] No configurar DNS ni dominio personalizado.
+- [x] No agregar variables de entorno reales durante esta feature.
+
+**Resultado:** despliegue inicial exitoso en el dominio temporal de Vercel:
+`https://nodo-educativo.vercel.app`
 
 **Requiere aprobación explícita antes de conectar o desplegar en Vercel.**
 
