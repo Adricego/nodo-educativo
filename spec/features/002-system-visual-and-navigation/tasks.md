@@ -529,7 +529,7 @@ T005.
 
 ## T011 — Crear el placeholder reutilizable
 
-- [ ] **T011 [P] — Crear `section-placeholder.tsx`**
+- [x] **T011 [P] — Crear `section-placeholder.tsx`**
 
 ### Objetivo
 
@@ -576,7 +576,7 @@ T005 y T010.
 
 ## T012 — Implementar la navegación principal
 
-- [ ] **T012 — Crear `main-navigation.tsx`**
+- [x] **T012 — Crear `main-navigation.tsx`**
 
 ### Objetivo
 
@@ -638,7 +638,7 @@ T006.
 
 ## T013 — Crear el header global
 
-- [ ] **T013 — Crear `site-header.tsx`**
+- [x] **T013 — Crear `site-header.tsx`**
 
 ### Objetivo
 
