@@ -67,7 +67,7 @@ Reglas generales:
 
 ## T001 — Confirmar rama y estado inicial
 
-- [ ] **T001 — Confirmar rama de trabajo y estado del repositorio**
+- [x] **T001 — Confirmar rama de trabajo y estado del repositorio**
 
 ### Objetivo
 
@@ -107,7 +107,7 @@ Ninguna.
 
 ## T002 — Inspeccionar la base técnica
 
-- [ ] **T002 — Inspeccionar versiones, scripts y configuración existente**
+- [X] **T002 — Inspeccionar versiones, scripts y configuración existente**
 
 ### Objetivo
 
@@ -166,7 +166,7 @@ T001.
 
 ## T003 — Verificar el funcionamiento previo
 
-- [ ] **T003 — Confirmar que la aplicación funciona antes de modificarla**
+- [x] **T003 — Confirmar que la aplicación funciona antes de modificarla**
 
 ### Objetivo
 
@@ -213,7 +213,7 @@ T002.
 
 ## T004 — Crear la estructura de carpetas
 
-- [ ] **T004 — Crear las carpetas aprobadas para componentes y configuración**
+- [X] **T004 — Crear las carpetas aprobadas para componentes y configuración**
 
 ### Objetivo
 
@@ -255,7 +255,7 @@ T003.
 
 ## T005 — Configurar la base visual y tipográfica
 
-- [ ] **T005 — Configurar Frosted aura, tipografía y estilos globales**
+- [x] **T005 — Configurar Frosted aura, tipografía y estilos globales**
 
 ### Objetivo
 
@@ -314,7 +314,7 @@ T004.
 
 ## T006 — Crear la configuración de navegación
 
-- [ ] **T006 — Crear una fuente única de enlaces de navegación**
+- [x] **T006 — Crear una fuente única de enlaces de navegación**
 
 ### Objetivo
 
@@ -370,7 +370,7 @@ y T006, siempre que cada tarea sea revisada por separado.
 
 ## T007 — Crear el contenedor global
 
-- [ ] **T007 [P] — Crear `container.tsx`**
+- [x] **T007 [P] — Crear `container.tsx`**
 
 ### Objetivo
 
@@ -409,7 +409,7 @@ T005.
 
 ## T008 — Crear la identidad textual
 
-- [ ] **T008 [P] — Crear `site-brand.tsx`**
+- [x] **T008 [P] — Crear `site-brand.tsx`**
 
 ### Objetivo
 
@@ -448,7 +448,7 @@ T005.
 
 ## T009 — Crear el enlace para saltar al contenido
 
-- [ ] **T009 [P] — Crear `skip-link.tsx`**
+- [x] **T009 [P] — Crear `skip-link.tsx`**
 
 ### Objetivo
 
@@ -489,7 +489,7 @@ T005.
 
 ## T010 — Crear el enlace destacado
 
-- [ ] **T010 [P] — Crear `cta-link.tsx`**
+- [x] **T010 [P] — Crear `cta-link.tsx`**
 
 ### Objetivo
 
