@@ -53,14 +53,16 @@ textarea {
   font: inherit;
 }
 
-a {
-  color: var(--brand-dark);
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.18em;
-}
+@layer base {
+  a {
+    color: var(--brand-dark);
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.18em;
+  }
 
-a:hover {
-  color: var(--brand-active);
+  a:hover {
+    color: var(--brand-active);
+  }
 }
 
 :focus-visible {

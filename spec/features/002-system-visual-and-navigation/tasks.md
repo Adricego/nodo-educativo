@@ -690,7 +690,7 @@ T007, T008 y T012.
 
 ## T014 — Crear el footer global
 
-- [ ] **T014 — Crear `site-footer.tsx`**
+- [x] **T014 — Crear `site-footer.tsx`**
 
 ### Objetivo
 
@@ -742,7 +742,7 @@ T006, T007 y T008.
 
 ## T015 — Integrar el layout raíz
 
-- [ ] **T015 — Integrar skip link, header, main y footer en `layout.tsx`**
+- [x] **T015 — Integrar skip link, header, main y footer en `layout.tsx`**
 
 ### Objetivo
 
@@ -804,7 +804,7 @@ T015.
 
 ## T016 — Actualizar la portada
 
-- [ ] **T016 — Reemplazar la página temporal por una portada estructural**
+- [x] **T016 — Reemplazar la página temporal por una portada estructural**
 
 ### Archivo previsto
 
