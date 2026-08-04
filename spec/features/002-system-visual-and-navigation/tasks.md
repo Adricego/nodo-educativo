@@ -859,7 +859,7 @@ T010 y T015.
 
 ## T017 — Crear la página Noticias
 
-- [ ] **T017 [P] — Crear `/noticias`**
+- [x] **T017 [P] — Crear `/noticias`**
 
 ### Archivo previsto
 
@@ -894,7 +894,7 @@ T011 y T015.
 
 ## T018 — Crear la página Herramientas
 
-- [ ] **T018 [P] — Crear `/herramientas`**
+- [x] **T018 [P] — Crear `/herramientas`**
 
 ### Archivo previsto
 
