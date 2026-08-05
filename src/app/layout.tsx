@@ -13,7 +13,7 @@ const geistSans = Geist({
 export const metadata: Metadata = {
   title: "Nodo Educativo",
   description:
-    "Noticias, herramientas y tecnología educativa para docentes de Chile.",
+    "Noticias, herramientas digitales y tecnología educativa para docentes de Chile.",
 };
 
 export default function RootLayout({

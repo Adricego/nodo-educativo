@@ -51,8 +51,8 @@ Ejemplos:
 - Mantener el contenido editorial separado del código.
 - Identificar los datos temporales como `mock`, `sample` o `placeholder`.
 - No presentar noticias, estadísticas, precios o fuentes ficticias como reales.
-- Usar enlaces oficiales cuando se incorporen herramientas o gadgets reales.
-- Incluir fecha de revisión en fichas de herramientas y gadgets.
+- Usar enlaces oficiales cuando se incorporen herramientas digitales o aliados del escritorio reales.
+- Incluir fecha de revisión en fichas de herramientas digitales y aliados del escritorio.
 
 ## Pruebas y verificación
 

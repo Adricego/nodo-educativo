@@ -228,7 +228,7 @@ src/components/ui/
 src/config/
 src/app/noticias/
 src/app/herramientas/
-src/app/gadgets/
+src/app/aliados-del-escritorio/
 src/app/quienes-somos/
 ```
 
@@ -330,8 +330,8 @@ Evitar duplicar las rutas entre header, menú móvil y footer.
 |---|---|
 | Inicio | `/` |
 | Noticias | `/noticias` |
-| Herramientas | `/herramientas` |
-| Gadgets | `/gadgets` |
+| Herramientas digitales | `/herramientas` |
+| Aliados del escritorio | `/aliados-del-escritorio` |
 | Quiénes somos | `/quienes-somos` |
 
 ### Acciones
@@ -892,7 +892,7 @@ T011 y T015.
 
 ---
 
-## T018 — Crear la página Herramientas
+## T018 — Crear la página Herramientas digitales
 
 - [x] **T018 [P] — Crear `/herramientas`**
 
@@ -904,7 +904,7 @@ T011 y T015.
 
 Debe mostrar:
 
-- título “Herramientas”;
+- título “Herramientas digitales”;
 - descripción de la futura sección;
 - mensaje explícito de contenido en preparación;
 - enlace para regresar o continuar navegando;
@@ -927,19 +927,19 @@ T011 y T015.
 
 ---
 
-## T019 — Crear la página Gadgets
+## T019 — Crear la página Aliados del escritorio
 
-- [ ] **T019 [P] — Crear `/gadgets`**
+- [ ] **T019 [P] — Crear `/aliados-del-escritorio`**
 
 ### Archivo previsto
 
-- `src/app/gadgets/page.tsx`
+- `src/app/aliados-del-escritorio/page.tsx`
 
 ### Requisitos
 
 Debe mostrar:
 
-- título “Gadgets”;
+- título “Aliados del escritorio”;
 - descripción de la futura sección;
 - mensaje explícito de contenido en preparación;
 - enlace para regresar o continuar navegando;
@@ -956,8 +956,8 @@ No debe mostrar:
 ### Verificación
 
 ```bash
-test -f src/app/gadgets/page.tsx && echo "Archivo encontrado"
-git diff -- src/app/gadgets/page.tsx
+test -f src/app/aliados-del-escritorio/page.tsx && echo "Archivo encontrado"
+git diff -- src/app/aliados-del-escritorio/page.tsx
 git diff --check
 npm run lint
 ```
@@ -1027,7 +1027,7 @@ Confirmar que la navegación funciona en las cinco rutas aprobadas.
 - `/`
 - `/noticias`
 - `/herramientas`
-- `/gadgets`
+- `/aliados-del-escritorio`
 - `/quienes-somos`
 
 ### Acciones
@@ -1049,7 +1049,7 @@ npm run dev
 Con el servidor en ejecución:
 
 ```bash
-for path in / /noticias /herramientas /gadgets /quienes-somos; do
+for path in / /noticias /herramientas /aliados-del-escritorio /quienes-somos; do
   curl -s -o /dev/null \
     -w "%{http_code} ${path}\n" \
     "http://localhost:3000${path}"
@@ -1262,7 +1262,7 @@ npm run start
 - `/`;
 - `/noticias`;
 - `/herramientas`;
-- `/gadgets`;
+- `/aliados-del-escritorio`;
 - `/quienes-somos`;
 - navegación móvil;
 - navegación de escritorio;
@@ -1317,7 +1317,7 @@ Confirmar que la implementación corresponde exactamente a lo aprobado.
 - Sanity;
 - noticias reales;
 - catálogo real;
-- gadgets reales;
+- dispositivos o accesorios reales;
 - buscador;
 - autenticación;
 - formularios;

@@ -12,18 +12,18 @@ const portalAreas = [
     linkLabel: "Ver noticias",
   },
   {
-    title: "Herramientas",
+    title: "Herramientas digitales",
     description:
       "Una futura guía para revisar plataformas digitales y recursos tecnológicos con criterios pedagógicos claros.",
     href: "/herramientas",
-    linkLabel: "Explorar herramientas",
+    linkLabel: "Explorar herramientas digitales",
   },
   {
-    title: "Gadgets",
+    title: "Aliados del escritorio",
     description:
       "Una sección para analizar dispositivos y equipamiento con potencial de uso educativo, sin recomendaciones comerciales prematuras.",
-    href: "/gadgets",
-    linkLabel: "Ver gadgets",
+    href: "/aliados-del-escritorio",
+    linkLabel: "Ver aliados del escritorio",
   },
 ] as const;
 

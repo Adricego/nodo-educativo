@@ -79,8 +79,8 @@ features sin duplicar estilos ni estructuras globales.
 - CMS.
 - Sanity.
 - Noticias reales.
-- Catálogo real de herramientas.
-- Gadgets reales.
+- Catálogo real de herramientas digitales.
+- Contenido real de dispositivos o accesorios reales.
 - Integraciones con fuentes externas.
 - Buscador.
 - Autenticación.
@@ -104,8 +104,8 @@ La navegación principal debe contener las siguientes opciones:
 |---|---|
 | Inicio | `/` |
 | Noticias | `/noticias` |
-| Herramientas | `/herramientas` |
-| Gadgets | `/gadgets` |
+| Herramientas digitales | `/herramientas` |
+| Aliados del escritorio | `/aliados-del-escritorio` |
 | Quiénes somos | `/quienes-somos` |
 
 Todas las opciones deben conducir a una ruta válida.
@@ -379,7 +379,7 @@ un foco visible.
 ### FR-012 — Contenido provisional
 
 Las rutas sin contenido real deben mostrar información provisional explícita,
-sin inventar noticias, herramientas o gadgets.
+sin inventar noticias, herramientas digitales o dispositivos o accesorios.
 
 ## Criterios de aceptación
 
@@ -484,7 +484,7 @@ La Feature 002 se considerará terminada cuando:
 
 - Se utilizará el nombre textual “Nodo Educativo” como identidad inicial.
 - No se creará todavía un logotipo gráfico definitivo.
-- Noticias, Herramientas, Gadgets y Quiénes somos tendrán páginas placeholder
+- Noticias, Herramientas digitales, Aliados del escritorio y Quiénes somos tendrán páginas placeholder
   mínimas para evitar enlaces rotos.
 - La paleta visual inicial estará basada en “Frosted aura”.
 - La paleta podrá evolucionar mediante una futura feature de identidad de marca.

@@ -76,7 +76,7 @@ Esta feature no debe implementar:
 - Sistema de diseño, logotipo, paleta o tipografía de marca definitiva.
 - Componentes reutilizables anticipados.
 - CMS o integración con Sanity.
-- Noticias, herramientas, gadgets ni datos editoriales de ejemplo.
+- Noticias, herramientas digitales, dispositivos o accesorios ni datos editoriales de ejemplo.
 - Formularios de contacto o suscripción.
 - Autenticación, usuarios, comentarios o datos personales.
 - Base de datos, PostgreSQL o DBeaver.

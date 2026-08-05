@@ -133,7 +133,7 @@ La estructura prevista para la feature es la siguiente:
     │   │   └── page.tsx
     │   ├── herramientas/
     │   │   └── page.tsx
-    │   ├── gadgets/
+    │   ├── aliados-del-escritorio/
     │   │   └── page.tsx
     │   └── quienes-somos/
     │       └── page.tsx
@@ -232,7 +232,7 @@ No debe incluir:
 - noticias ficticias;
 - estadísticas inventadas;
 - herramientas simuladas;
-- gadgets simulados;
+- Dispositivos o accesorios simulados;
 - formularios;
 - llamados a suscripción;
 - publicidad;
@@ -264,11 +264,11 @@ Debe mostrar:
 
 No debe mostrar un catálogo ficticio.
 
-### `src/app/gadgets/page.tsx`
+### `src/app/aliados-del-escritorio/page.tsx`
 
 Debe mostrar:
 
-- encabezado “Gadgets”;
+- encabezado “Aliados del escritorio”;
 - descripción breve de la futura sección;
 - mensaje explícito de que el contenido se encuentra en preparación;
 - enlace para regresar al inicio o continuar navegando.
@@ -318,8 +318,8 @@ La configuración inicial será:
 |---|---|
 | Inicio | `/` |
 | Noticias | `/noticias` |
-| Herramientas | `/herramientas` |
-| Gadgets | `/gadgets` |
+| Herramientas digitales| `/herramientas` |
+| Aliados del escritorio | `/aliados-del-escritorio` |
 | Quiénes somos | `/quienes-somos` |
 
 El header, la navegación de escritorio, el menú móvil y el footer deben
@@ -510,7 +510,7 @@ Será utilizado, como mínimo, por:
 
 - Noticias;
 - Herramientas;
-- Gadgets.
+- Dispositivos o accesorios.
 
 La página Quiénes somos podrá utilizarlo solamente si su contenido permanece
 suficientemente simple.
@@ -827,7 +827,7 @@ Se revisarán manualmente:
 - `/`;
 - `/noticias`;
 - `/herramientas`;
-- `/gadgets`;
+- `/aliados-del-escritorio`;
 - `/quienes-somos`.
 
 Cada ruta debe:
@@ -1184,7 +1184,7 @@ Actualizar o crear:
 - portada;
 - Noticias;
 - Herramientas;
-- Gadgets;
+- Aliados del escritorio;
 - Quiénes somos.
 
 ### Fase 8 — Verificación

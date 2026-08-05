@@ -13,12 +13,12 @@ export const siteNavigation = [
     href: "/noticias",
   },
   {
-    label: "Herramientas",
+    label: "Herramientas digitales",
     href: "/herramientas",
   },
   {
-    label: "Gadgets",
-    href: "/gadgets",
+    label: "Aliados del escritorio",
+    href: "/aliados-del-escritorio",
   },
   {
     label: "Quiénes somos",

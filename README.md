@@ -11,7 +11,7 @@ Proyecto en fase de definición y preparación técnica.
 - Página principal.
 - Noticias Chile.
 - Catálogo de herramientas docentes.
-- Sección de gadgets educativos.
+- Sección de dispositivos o accesorios educativos.
 - Página Quiénes Somos.
 - CMS editorial.
 - SEO básico.
