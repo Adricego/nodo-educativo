@@ -50,7 +50,7 @@ La primera versión pública debe incluir:
 - Página principal.
 - Noticias Chile.
 - Catálogo de herramientas docentes.
-- Sección de gadgets educativos.
+- Sección de aliados del escritorio educativos.
 - Página Quiénes Somos.
 - CMS para administrar contenido.
 - SEO básico.

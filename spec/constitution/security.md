@@ -43,7 +43,7 @@ solicitarán los datos estrictamente necesarios para esa función.
 - Las noticias deben enlazar o citar su fuente original cuando corresponda.
 - El contenido patrocinado debe identificarse de forma visible.
 - No se publicarán rankings de herramientas sin una metodología explícita.
-- Las fichas de herramientas y gadgets deben incluir fecha de revisión.
+- Las fichas de herramientas digitales y dispositivos o accesorios deben incluir fecha de revisión.
 - No se deben presentar opiniones como noticias verificadas.
 
 ## Publicidad y monetización

@@ -6,7 +6,7 @@ Publicar una primera versión funcional de Nodo Educativo que permita:
 
 - Presentar noticias educativas de Chile.
 - Mostrar herramientas tecnológicas útiles para docentes.
-- Mostrar gadgets con potencial pedagógico.
+- Mostrar dispositivos o accesorios con potencial pedagógico.
 - Administrar contenido mediante un CMS.
 - Tener una base técnica preparada para SEO y despliegue en Vercel.
 
@@ -105,13 +105,13 @@ Incluye:
 - Enlace oficial.
 - Fecha de revisión.
 
-### 007 - Sección de gadgets educativos
+### 007 - Sección de dispositivos o accesorios educativos
 
 Crear una sección para presentar dispositivos y equipamiento con uso pedagógico.
 
 Incluye:
 
-- Listado de gadgets.
+- Listado de dispositivos o accesorios.
 - Fichas individuales.
 - Uso educativo.
 - Ventajas.

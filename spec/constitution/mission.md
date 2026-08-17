@@ -5,7 +5,7 @@ dirigido principalmente a docentes y comunidades educativas de Chile.
 
 Su propósito es informar sobre noticias relevantes del sistema educativo chileno,
 presentar herramientas digitales e inteligencia artificial aplicables al trabajo docente,
-y analizar gadgets o dispositivos con potencial pedagógico.
+y analizar accesorios o dispositivos con potencial pedagógico.
 
 El portal busca transformar información tecnológica en contenido útil, comprensible
 y responsable para quienes enseñan.
