@@ -257,7 +257,7 @@ No debe mostrar noticias simuladas.
 
 Debe mostrar:
 
-- encabezado “Herramientas”;
+- encabezado “Herramientas digitales”;
 - descripción breve de la futura sección;
 - mensaje explícito de que el contenido se encuentra en preparación;
 - enlace para regresar al inicio o continuar navegando.

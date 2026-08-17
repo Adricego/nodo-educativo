@@ -929,7 +929,7 @@ T011 y T015.
 
 ## T019 — Crear la página Aliados del escritorio
 
-- [ ] **T019 [P] — Crear `/aliados-del-escritorio`**
+- [x] **T019 [P] — Crear `/aliados-del-escritorio`**
 
 ### Archivo previsto
 
@@ -970,7 +970,7 @@ T011 y T015.
 
 ## T020 — Crear la página Quiénes somos
 
-- [ ] **T020 — Crear `/quienes-somos`**
+- [x] **T020 — Crear `/quienes-somos`**
 
 ### Archivo previsto
 
@@ -1016,7 +1016,7 @@ T010 y T015.
 
 ## T021 — Verificar navegación y rutas
 
-- [ ] **T021 — Validar todos los enlaces y estados activos**
+- [x] **T021 — Validar todos los enlaces y estados activos**
 
 ### Objetivo
 
@@ -1076,7 +1076,7 @@ T016, T017, T018, T019 y T020.
 
 ## T022 — Verificar diseño responsive
 
-- [ ] **T022 — Revisar la interfaz entre 320 y 1440 píxeles**
+- [x] **T022 — Revisar la interfaz entre 320 y 1440 píxeles**
 
 ### Anchos obligatorios
 
@@ -1130,7 +1130,7 @@ T021.
 
 ## T023 — Verificar navegación por teclado
 
-- [ ] **T023 — Validar teclado, foco y menú móvil**
+- [x] **T023 — Validar teclado, foco y menú móvil**
 
 ### Secuencia obligatoria
 
@@ -1167,7 +1167,7 @@ T022.
 
 ## T024 — Verificar accesibilidad y contraste básicos
 
-- [ ] **T024 — Auditar semántica, contenido y uso de color**
+- [x] **T024 — Auditar semántica, contenido y uso de color**
 
 ### Revisar
 
@@ -1211,7 +1211,7 @@ T023.
 
 ## T025 — Ejecutar validación técnica final
 
-- [ ] **T025 — Ejecutar formato, lint y build**
+- [x] **T025 — Ejecutar formato, lint y build**
 
 ### Comandos
 
@@ -1243,7 +1243,7 @@ T024.
 
 ## T026 — Verificar la versión local de producción
 
-- [ ] **T026 — Ejecutar y revisar la aplicación compilada**
+- [x] **T026 — Ejecutar y revisar la aplicación compilada**
 
 ### Objetivo
 
@@ -1290,7 +1290,7 @@ T025.
 
 ## T027 — Auditar cumplimiento de `spec.md` y `plan.md`
 
-- [ ] **T027 — Revisar trazabilidad y exclusiones**
+- [x] **T027 — Revisar trazabilidad y exclusiones**
 
 ### Objetivo
 
@@ -1350,7 +1350,7 @@ T026.
 
 ## T028 — Actualizar documentación y completar checklist
 
-- [ ] **T028 — Registrar el resultado final de la feature**
+- [x] **T028 — Registrar el resultado final de la feature**
 
 ### Acciones
 
@@ -1384,7 +1384,7 @@ T027.
 
 ## T029 — Revisar cambios y crear el commit final
 
-- [ ] **T029 — Preparar y crear el commit de la Feature 002**
+- [x] **T029 — Preparar y crear el commit de la Feature 002**
 
 ### Revisión previa
 

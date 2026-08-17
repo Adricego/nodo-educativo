@@ -15,7 +15,7 @@ export function SiteFooter() {
           <div className="max-w-md space-y-3">
             <SiteBrand />
             <p className="text-sm leading-6 text-muted-foreground">
-              Noticias, herramientas y tecnología educativa para docentes de
+              Noticias, herramientas digitales y tecnología educativa para docentes de
               Chile.
             </p>
           </div>
