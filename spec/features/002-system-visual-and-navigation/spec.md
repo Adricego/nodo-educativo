@@ -2,7 +2,7 @@
 
 ## Estado
 
-Approved
+Completed
 
 ## Contexto
 

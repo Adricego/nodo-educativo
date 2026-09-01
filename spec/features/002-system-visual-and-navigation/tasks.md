@@ -1436,7 +1436,7 @@ T028.
 
 ## T030 — Crear pull request, revisar y cerrar la feature
 
-- [ ] **T030 — Publicar la rama y completar la integración**
+- [x] **T030 — Publicar la rama y completar la integración**
 
 ### Acciones
 

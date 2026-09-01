@@ -2,12 +2,12 @@
 
 ## Estado
 
-Approved
+Completed
 
 ## Especificación relacionada
 
 - `spec/features/002-system-visual-and-navigation/spec.md`
-- Estado de la especificación: Approved
+- Estado de la especificación: Completed
 
 ## Objetivo del plan
 
