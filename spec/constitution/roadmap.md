@@ -6,13 +6,18 @@ Publicar una primera versión funcional de Nodo Educativo que permita:
 
 - Presentar noticias educativas de Chile.
 - Mostrar herramientas tecnológicas útiles para docentes.
-- Mostrar dispositivos o accesorios con potencial pedagógico.
+- Mostrar dispositivos o accesorios (aliados del escritorio) con potencial pedagógico.
 - Administrar contenido mediante un CMS.
 - Tener una base técnica preparada para SEO y despliegue en Vercel.
 
 ## Estado actual
 
-Proyecto en fase de definición y preparación técnica.
+Proyecto en desarrollo activo.
+
+Las Features 001 — Fundación del proyecto y 002 — Sistema visual y navegación
+se encuentran completadas e integradas a `main`.
+
+La siguiente etapa corresponde a la Feature 003 — Modelos de contenido y CMS.
 
 ## Orden de desarrollo
 
@@ -55,7 +60,7 @@ Incluye:
 - Configuración de Sanity.
 - Modelo de noticia.
 - Modelo de herramienta docente.
-- Modelo de gadget.
+- Modelo de aliados del escritorio.
 - Categorías.
 - Estados de publicación.
 - Campos de fecha de revisión.
@@ -70,7 +75,7 @@ Incluye:
 - Noticia destacada.
 - Últimas noticias.
 - Herramienta destacada.
-- Gadget destacado.
+- Aliados del escritorio destacado.
 - Accesos a secciones principales.
 - Contenido temporal o editorial según disponibilidad del CMS.
 
@@ -107,11 +112,11 @@ Incluye:
 
 ### 007 - Sección de dispositivos o accesorios educativos
 
-Crear una sección para presentar dispositivos y equipamiento con uso pedagógico.
+Crear una sección para presentar dispositivos y equipamiento (aliados del escritorio) con potencial  uso pedagógico.
 
 Incluye:
 
-- Listado de dispositivos o accesorios.
+- Listado de aliados del escritorio.
 - Fichas individuales.
 - Uso educativo.
 - Ventajas.
